@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ### 3. Initialize the Streamlit Server Engine
 Boot the localized microservice directly from your terminal console:
 ```bash
-streamlit run app.py
+streamlit Unemployment_Analysis app.py
 ```
 
 ---
@@ -75,4 +75,4 @@ streamlit run app.py
 ## 🎓 Internship Metadata
 - **Program Resource:** Alpha Internship Submission Task
 - **Domain Focus:** Data Science, Business Intelligence & Frontend UI Prototyping
-- **Developer:** [Your Name / Profile]
+- **Developer:** Abdullah Majeed
